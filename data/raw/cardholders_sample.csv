@@ -1,0 +1,51 @@
+card_id,income_tier,home_city,home_lat,home_lon,avg_transaction,std_transaction,txns_per_day,preferred_cat_1,preferred_cat_2,preferred_cat_3,active_hour_start,active_hour_end
+CARD_0001,mid,New York,40.7128,-74.006,68,45,2.5,Entertainment,Travel,Fuel,7,20
+CARD_0002,mid,Austin,30.2672,-97.7431,68,45,2.5,Online Shopping,Grocery,Retail,6,20
+CARD_0003,low,Austin,30.2672,-97.7431,32,18,1.8,Education,Retail,Travel,10,23
+CARD_0004,low,Seattle,47.6062,-122.3321,32,18,1.8,Entertainment,Retail,Dining,9,22
+CARD_0005,low,Houston,29.7604,-95.3698,32,18,1.8,Healthcare,Online Shopping,Fuel,9,20
+CARD_0006,mid,Philadelphia,39.9526,-75.1652,68,45,2.5,Education,Entertainment,Retail,9,20
+CARD_0007,premium,San Antonio,29.4241,-98.4936,380,280,4.0,Online Shopping,Fuel,Entertainment,10,22
+CARD_0008,mid,Los Angeles,34.0522,-118.2437,68,45,2.5,Retail,Travel,Entertainment,6,21
+CARD_0009,high,San Antonio,29.4241,-98.4936,145,120,3.2,Entertainment,Utilities,Healthcare,7,22
+CARD_0010,mid,Phoenix,33.4484,-112.074,68,45,2.5,Online Shopping,Dining,Travel,7,23
+CARD_0011,mid,Austin,30.2672,-97.7431,68,45,2.5,Travel,Healthcare,Retail,7,20
+CARD_0012,high,San Antonio,29.4241,-98.4936,145,120,3.2,Entertainment,Online Shopping,Travel,10,22
+CARD_0013,low,Dallas,32.7767,-96.797,32,18,1.8,Grocery,Utilities,Dining,8,21
+CARD_0014,low,Austin,30.2672,-97.7431,32,18,1.8,Fuel,Entertainment,Grocery,10,23
+CARD_0015,mid,Chicago,41.8781,-87.6298,68,45,2.5,Fuel,Utilities,Online Shopping,6,20
+CARD_0016,low,Chicago,41.8781,-87.6298,32,18,1.8,Grocery,Online Shopping,Education,9,23
+CARD_0017,mid,Austin,30.2672,-97.7431,68,45,2.5,Retail,Online Shopping,Entertainment,8,20
+CARD_0018,low,Chicago,41.8781,-87.6298,32,18,1.8,Utilities,Retail,Entertainment,10,21
+CARD_0019,mid,Los Angeles,34.0522,-118.2437,68,45,2.5,Entertainment,Fuel,Travel,7,22
+CARD_0020,high,Austin,30.2672,-97.7431,145,120,3.2,Fuel,Retail,Healthcare,9,20
+CARD_0021,low,Philadelphia,39.9526,-75.1652,32,18,1.8,Entertainment,Travel,Retail,7,20
+CARD_0022,low,Dallas,32.7767,-96.797,32,18,1.8,Online Shopping,Fuel,Dining,7,23
+CARD_0023,premium,Chicago,41.8781,-87.6298,380,280,4.0,Entertainment,Fuel,Grocery,7,21
+CARD_0024,high,San Antonio,29.4241,-98.4936,145,120,3.2,Healthcare,Utilities,Fuel,6,21
+CARD_0025,low,Philadelphia,39.9526,-75.1652,32,18,1.8,Retail,Fuel,Travel,10,21
+CARD_0026,low,New York,40.7128,-74.006,32,18,1.8,Travel,Online Shopping,Retail,8,20
+CARD_0027,mid,Phoenix,33.4484,-112.074,68,45,2.5,Utilities,Travel,Dining,10,23
+CARD_0028,low,Dallas,32.7767,-96.797,32,18,1.8,Grocery,Travel,Online Shopping,6,23
+CARD_0029,mid,San Antonio,29.4241,-98.4936,68,45,2.5,Utilities,Retail,Online Shopping,6,23
+CARD_0030,high,Los Angeles,34.0522,-118.2437,145,120,3.2,Travel,Education,Fuel,10,23
+CARD_0031,low,Chicago,41.8781,-87.6298,32,18,1.8,Entertainment,Utilities,Travel,6,23
+CARD_0032,high,Austin,30.2672,-97.7431,145,120,3.2,Online Shopping,Retail,Fuel,6,21
+CARD_0033,low,Dallas,32.7767,-96.797,32,18,1.8,Utilities,Travel,Grocery,6,21
+CARD_0034,mid,San Antonio,29.4241,-98.4936,68,45,2.5,Entertainment,Utilities,Education,9,23
+CARD_0035,low,Phoenix,33.4484,-112.074,32,18,1.8,Travel,Retail,Fuel,8,20
+CARD_0036,low,Dallas,32.7767,-96.797,32,18,1.8,Fuel,Education,Dining,6,20
+CARD_0037,high,Los Angeles,34.0522,-118.2437,145,120,3.2,Education,Online Shopping,Travel,9,20
+CARD_0038,premium,Seattle,47.6062,-122.3321,380,280,4.0,Travel,Retail,Online Shopping,9,22
+CARD_0039,premium,Houston,29.7604,-95.3698,380,280,4.0,Healthcare,Travel,Entertainment,9,21
+CARD_0040,mid,Phoenix,33.4484,-112.074,68,45,2.5,Utilities,Healthcare,Online Shopping,6,23
+CARD_0041,mid,Seattle,47.6062,-122.3321,68,45,2.5,Online Shopping,Education,Travel,10,22
+CARD_0042,low,Philadelphia,39.9526,-75.1652,32,18,1.8,Online Shopping,Travel,Healthcare,8,21
+CARD_0043,mid,Austin,30.2672,-97.7431,68,45,2.5,Entertainment,Fuel,Retail,10,22
+CARD_0044,premium,Los Angeles,34.0522,-118.2437,380,280,4.0,Dining,Entertainment,Online Shopping,6,21
+CARD_0045,low,Seattle,47.6062,-122.3321,32,18,1.8,Travel,Healthcare,Education,8,23
+CARD_0046,low,New York,40.7128,-74.006,32,18,1.8,Online Shopping,Grocery,Entertainment,6,20
+CARD_0047,mid,Chicago,41.8781,-87.6298,68,45,2.5,Entertainment,Dining,Utilities,10,23
+CARD_0048,mid,Los Angeles,34.0522,-118.2437,68,45,2.5,Online Shopping,Dining,Retail,8,21
+CARD_0049,mid,New York,40.7128,-74.006,68,45,2.5,Entertainment,Healthcare,Retail,8,21
+CARD_0050,mid,Los Angeles,34.0522,-118.2437,68,45,2.5,Healthcare,Fuel,Grocery,10,21
